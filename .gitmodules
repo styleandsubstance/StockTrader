@@ -1,0 +1,9 @@
+[submodule "StockTraderWeb"]
+	path = StockTraderWeb
+	url = https://github.com/styleandsubstance/StockTraderWeb.git
+[submodule "StockTraderBackend"]
+	path = StockTraderBackend
+	url = https://github.com/styleandsubstance/StockTraderBackend.git
+[submodule "StockStreaming"]
+	path = StockStreaming
+	url = https://github.com/styleandsubstance/StockStreaming.git
